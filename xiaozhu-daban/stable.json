@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "release": {
+    "version": "0.3.4",
+    "minimumAutoUpdateVersion": "0.3.4",
+    "title": "小猪打板 0.3.4",
+    "publishedAtUtc": "2026-11-27T13:10:00Z",
+    "releaseNotes": [
+      "新增主界面检查更新入口与新版本提示条。",
+      "新增启动后自动检查更新设置。",
+      "支持软件内下载、SHA-256 校验、安全替换、失败回滚和自动重启。",
+      "更新包逐文件校验，拒绝路径穿越、符号链接、重复路径和未登记文件。"
+    ],
+    "package": null,
+    "manualDownloadUrl": ""
+  }
+}
